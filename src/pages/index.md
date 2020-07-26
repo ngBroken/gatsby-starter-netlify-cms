@@ -1,20 +1,22 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: Caring for Ubirr
 image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+heading: About
+subheading: Caring for Ubirr
 mainpitch:
-  title: TJ
-  description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
-description: Kaldi is the ultimate spot for coffee lovers who want to learn
-  about their java’s origin and support the farmers that grew it. We take coffee
-  production, roasting and brewing seriously and we’re glad to pass that
-  knowledge to anyone.
+  title: Caring for Ubirr
+  description: "Caring for Ubirr is an Indigenous led rock art conservation
+    project that will re-evaluate how the rock art sites in the Ubirr area is
+    cared for, managed and shared with the public. "
+description: "Listed on the World Heritage List, the Ubirr rock art site complex
+  is one of Kakadu National Park’s most outstanding cultural landscapes, visited
+  by over 124,000 visitors a year. The project is led by the Njanjma Aboriginal
+  Corporation (NAC), representing the Traditional Owners clans of the East
+  Alligator River in partnership with Kakadu National Park (Kakadu) and
+  researchers from The Australian National University (ANU), Flinders University
+  (FU) and The University of Notre Dame Australia (UNDA).   Caring for Ubirr is
+  funded by a National Heritage Grant AHG81363. "
 intro:
   blurbs:
     - image: /img/coffee.png
@@ -46,10 +48,16 @@ intro:
         sale. The full price you pay goes to the artist.
   heading: What we offer
   description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+    Listed on the World Heritage List, the Ubirr rock art site complex is one of
+    Kakadu National Park’s most outstanding cultural landscapes, visited by over
+    124,000 visitors a year. The project is led by the Njanjma Aboriginal
+    Corporation (NAC), representing the Traditional Owners clans of the East
+    Alligator River in partnership with Kakadu National Park (Kakadu) and
+    researchers from The Australian National University (ANU), Flinders
+    University (FU) and The University of Notre Dame Australia (UNDA). 
+
+
+    Caring for Ubirr is funded by a National Heritage Grant AHG81363. 
 main:
   heading: Great coffee with no compromises
   description: >
